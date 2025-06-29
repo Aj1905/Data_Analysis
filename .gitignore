@@ -1,0 +1,6 @@
+data/*.csv
+!data/sample_data.csv
+data/*.xlsx
+data/*.xls
+data/*.tsv
+__pycache__/
